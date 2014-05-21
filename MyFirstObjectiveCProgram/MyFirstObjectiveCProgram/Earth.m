@@ -18,5 +18,10 @@
     return 10;
 }
 
+-(int)center {
+    return [super center];
+}
+
+
 
 @end
